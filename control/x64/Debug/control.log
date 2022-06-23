@@ -1,0 +1,9 @@
+﻿  Main.c
+D:\Desktop\isec\3 ano\2 semestre\SO2\trabalho prático\control\control\Main.c(316,31): warning C4028: formal parameter 1 different from declaration
+D:\Desktop\isec\3 ano\2 semestre\SO2\trabalho prático\control\control\Main.c(318,107): warning C4267: 'function': conversion from 'size_t' to 'DWORD', possible loss of data
+D:\Desktop\isec\3 ano\2 semestre\SO2\trabalho prático\control\control\Main.c(432,1): warning C4244: 'initializing': conversion from 'double' to 'long', possible loss of data
+D:\Desktop\isec\3 ano\2 semestre\SO2\trabalho prático\control\control\Main.c(503,2): warning C4133: 'function': incompatible types - from 'unsigned short [82]' to 'LPCSTR'
+D:\Desktop\isec\3 ano\2 semestre\SO2\trabalho prático\control\control\Main.c(751,25): warning C4047: 'function': 'wchar_t *' differs in levels of indirection from 'TCHAR (*)[200]'
+D:\Desktop\isec\3 ano\2 semestre\SO2\trabalho prático\control\control\Main.c(751,12): warning C4024: 'wcscpy': different types for formal and actual parameter 1
+D:\Desktop\isec\3 ano\2 semestre\SO2\trabalho prático\control\control\Main.c(1181,7): warning C4101: 'a': unreferenced local variable
+  control.vcxproj -> D:\Desktop\isec\3 ano\2 semestre\SO2\trabalho prático\control\x64\Debug\control.exe

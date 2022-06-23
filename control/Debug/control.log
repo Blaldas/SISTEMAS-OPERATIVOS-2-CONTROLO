@@ -1,0 +1,7 @@
+﻿  Main.cpp
+D:\Desktop\isec\3 ano\2 semestre\SO2\trabalho prático\control\control\Main.cpp(54,25): warning C4477: 'swprintf_s' : format string '%s' requires an argument of type 'wchar_t *', but variadic argument 1 has type 'int'
+D:\Desktop\isec\3 ano\2 semestre\SO2\trabalho prático\control\control\Main.cpp(58,26): warning C4477: 'swprintf_s' : format string '%s' requires an argument of type 'wchar_t *', but variadic argument 1 has type 'int'
+D:\Desktop\isec\3 ano\2 semestre\SO2\trabalho prático\control\control\Main.cpp(25,8): warning C4101: 'chave_nome': unreferenced local variable
+D:\Desktop\isec\3 ano\2 semestre\SO2\trabalho prático\control\control\Main.cpp(27,29): warning C4101: 'value_name_obtained': unreferenced local variable
+D:\Desktop\isec\3 ano\2 semestre\SO2\trabalho prático\control\control\Main.cpp(27,8): warning C4101: 'value_obtained': unreferenced local variable
+  control.vcxproj -> D:\Desktop\isec\3 ano\2 semestre\SO2\trabalho prático\control\Debug\control.exe
